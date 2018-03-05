@@ -18,3 +18,6 @@ The second type of display is the common cathode, for this instead of connecting
 ![image](https://user-images.githubusercontent.com/34581001/36979375-4eb53e36-2055-11e8-8bb6-88d7715febe4.png)
 
 This is the circut:
+
+
+![2018-03-05 at 09-20-09](https://user-images.githubusercontent.com/34581001/36979767-7d4b9140-2056-11e8-906e-01b6c67a95c8.png)
