@@ -13,3 +13,8 @@ connect pins A2, and A3 to the bottom two right pins on the display. Now, depend
 
 The first type of display is the common anode, for this you will need to connect the top and bottom midle pins to vcc or positive.
 The second type of display is the common cathode, for this instead of connecting the middle pins to vcc connect them to ground (gnd).
+
+
+![image](https://user-images.githubusercontent.com/34581001/36979375-4eb53e36-2055-11e8-8bb6-88d7715febe4.png)
+
+This is the circut:
