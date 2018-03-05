@@ -12,4 +12,4 @@ the top two right pins on the display. Next connect pins A0, and A1 to to the tw
 connect pins A2, and A3 to the bottom two right pins on the display. Now, depending on the display there are two ways to connect power.
 
 The first type of display is the common anode, for this you will need to connect the top and bottom midle pins to vcc or positive.
-The second type of display is the common cathode, for this instead of connecting the middle pins to vcc connect them to ground(gnd).
+The second type of display is the common cathode, for this instead of connecting the middle pins to vcc connect them to ground (gnd).
